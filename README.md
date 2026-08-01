@@ -17,10 +17,10 @@ Currently only Ventura is supported.
 
 ## Issues
 * Brightness hotkeys don't work.
+* HDMI doesn't work.
 * Hibernation (mode 25) causes kernel panic.
 
 ## Not Tested
-* HDMI
 * DP via USB-C
 * Thunderbolt
 * WWAN

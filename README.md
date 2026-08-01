@@ -12,15 +12,16 @@ Currently only Ventura is supported.
 | Audio | ALC257 |
 | LAN | I219-LM |
 | WLAN | 8265NGW |
+| WWAN | L850-GL |
 | BIOS | 1.53 |
 
 ## Issues
 * Brightness hotkeys don't work.
-* Power LED still breathes after waking up from sleep.
 * Hibernation (mode 25) causes kernel panic.
 
 ## Not Tested
 * HDMI
 * DP via USB-C
 * Thunderbolt
+* WWAN
 * Docking station

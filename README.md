@@ -1,4 +1,6 @@
 # ThinkPad T480s Hackintosh
+Currently only Ventura is supported.
+
 ## Specs
 | Parts | Details |
 | - | - |

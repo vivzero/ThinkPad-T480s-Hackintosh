@@ -25,3 +25,4 @@ Supports Ventura and Sonoma (14.4+)
 * Thunderbolt
 * WWAN
 * Docking station
+* FileVault

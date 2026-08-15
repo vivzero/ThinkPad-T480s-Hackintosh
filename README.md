@@ -1,5 +1,5 @@
 # ThinkPad T480s Hackintosh
-Currently only Ventura is supported.
+Supports Ventura and Sonoma (14.4+)
 
 ## Specs
 | Parts | Details |

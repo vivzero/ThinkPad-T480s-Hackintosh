@@ -1147,7 +1147,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>slide=0 revpatch=sbvmm -v</string>
+				<string>slide=0 revpatch=sbvmm gfxrst=1 -v</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>run-efi-updater</key>

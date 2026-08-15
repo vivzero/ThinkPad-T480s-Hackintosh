@@ -16,6 +16,7 @@ Supports Ventura and Sonoma (14.4+)
 | BIOS | 1.53 |
 
 ## Issues
+* [Instant wake](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html) when using left USB port?
 * Brightness hotkeys don't work.
 * HDMI doesn't work.
 * Hibernation (mode 25) causes kernel panic.
